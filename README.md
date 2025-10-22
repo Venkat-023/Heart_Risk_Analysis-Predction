@@ -1,4 +1,4 @@
-🫀 Heart Disease Risk Prediction Using Machine Learning
+ Heart Disease Risk Prediction Using Machine Learning
 This project presents an end-to-end pipeline for predicting heart disease risk using supervised machine learning. The workflow involves data analysis, preprocessing, dimensionality reduction, model training with hyperparameter tuning, evaluation with cross-validation, and performance visualization. The goal is to build interpretable and high-performing models for binary classification of heart disease presence.
 
 📌 Objectives
